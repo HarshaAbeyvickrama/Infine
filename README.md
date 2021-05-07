@@ -116,14 +116,24 @@ To get a local copy up and running follow these simple steps.
 
 Clone the repo
 ```sh
-    git clone https://github.com/HarshaAbeyvickrama/Infine.git
+  git clone https://github.com/HarshaAbeyvickrama/Infine.git
 ```
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Functions
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+1. <strong>addUserVideos() : </strong> Add your uploads to the sheet to track.
+2. <strong>getUserVideos() : </strong> Returns a JSON response of all user uploaded videos.
+3. <strong>addPublicVideo(url,type) : </strong> Add a video with the link to the sheet to track.
+4. <strong>getPublicVideos() : </strong> Returns a JSON response of all videos that are added to the sheet with addPublicVideo() function
+5. <strong>getVideoStats(videoID) : </strong> Returns a JSON response of a particular video that is currently available in the database
+6. <strong>addNewChannel(ChannelLink) : </strong> Add a YouTube channel to the sheet to monitor. This function will add all videos in that channel to the database and it will monitor their views, comments & like count seperately.
+6. <strong>getChannel(channelID) : </strong> Returns a JSON response with the details a particular channel
+
+<strong>Here,  a separate sheet will be created with the name of the video ID for every video added to the sheet. This is applicable for all user videos and addition of channels<strong>
+
+
 
 
 
