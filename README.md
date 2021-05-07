@@ -87,11 +87,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`HarshaAbeyvickrama`, `Infine`, `twitter_handle`, `harshaabeyvickrama@gmail.com`, `Infine`, `project_description`
-
-
 ### Built With
 
 * [Google Apps Script](https://www.google.com/script/start/)
@@ -108,6 +103,7 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+<a href="#" class="button icon copy">copy</a>
 * npm
   ```sh
   npm install npm@latest -g
