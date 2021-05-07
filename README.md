@@ -33,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/HarshaAbeyvickrama/Infine.git">
-    <img src="images/infine.png" alt="Logo" width="80" height="80">
+    <img src="images/Infine.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Infine</h3>
