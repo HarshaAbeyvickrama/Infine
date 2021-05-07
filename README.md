@@ -123,7 +123,7 @@ Clone the repo
 
 ### Functions
 
-1. <strong>addUserVideos() : </strong> Add your uploads to the sheet to track.
+1. <strong>addUserVideos() : </strong> <i>Add your uploads to the sheet to track.</i>
 2. <strong>getUserVideos() : </strong> Returns a JSON response of all user uploaded videos.
 3. <strong>addPublicVideo(url,type) : </strong> Add a video with the link to the sheet to track.
 4. <strong>getPublicVideos() : </strong> Returns a JSON response of all videos that are added to the sheet with addPublicVideo() function
