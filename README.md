@@ -14,14 +14,14 @@
   <h3 align="center">Infine</h3>
 
   <p align="center">
-    Infine is a project created to analyze YouTube videos and channels. This project can monitor the changes in a youtube video or a channel added to the database or the videos of the user uploads.
+    YouTube Statistics Analyzer
     <br />
     <a href="https://github.com/HarshaAbeyvickrama/Infine/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/HarshaAbeyvickrama/Infine">View Demo</a>
     ·
-    <a href="https://github.com/HarshaAbeyvickrama/Infine/issues">Infinert Bug</a>
+    <a href="https://github.com/HarshaAbeyvickrama/Infine/issues">Report Bug</a>
     ·
     <a href="https://github.com/HarshaAbeyvickrama/Infine/issues">Request Feature</a>
   </p>
@@ -42,10 +42,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#Spreadsheet setup">Spreadsheet setup</a></li>
-        <li><a href="#YouTube Advanced Service setup">YouTube Advanced Service setup</a></li>
-        <li><a href="#Making a local copy">Making a local copy</a></li>
-        <li><a href="#Apps Script trigger setup">Apps Script trigger setup</a></li>
+        <li><a href="#Spreadsheet-setup">Spreadsheet setup</a></li>
+        <li><a href="#YouTube-Advanced-Service-setup">YouTube Advanced Service setup</a></li>
+        <li><a href="#Making-a-local-copy">Making a local copy</a></li>
+        <li><a href="#Apps-Script-trigger-setup">Apps Script trigger setup</a></li>
       </ul>
     </li>
     <li>
@@ -69,6 +69,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+Infine is a project created to analyze YouTube videos and channels. This project can monitor the changes in a youtube video or a channel added to the database or the videos of the user uploads. This project is created in the purpose of automating the reseach work done around youtube statistics.
+
+<i>You can use this project freely and contribute to make it better</i>
+
 ### Built With
 
 * [Google Apps Script](https://www.google.com/script/start/)
@@ -84,7 +88,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Spreadsheet setup
 
-1. Make of copy of the spreadsheet <a href="" class="button primary">here</a>. It already contains the Apps Script code from this Infinesitory.
+1. Make of copy of the spreadsheet <a href="" class="button primary">here</a>. It already contains the Apps Script code from this repository.
 2. Change the name of the Project to aything you want.
 
 ### YouTube Advanced Service setup
