@@ -1,25 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** HarshaAbeyvickrama, Infine, twitter_handle, harshaabeyvickrama@gmail.com, Infine, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -27,9 +5,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/HarshaAbeyvickrama/Infine.git">
@@ -67,11 +42,18 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Spreadsheet setup">Spreadsheet setup</a></li>
+        <li><a href="#YouTube Advanced Service setup">YouTube Advanced Service setup</a></li>
+        <li><a href="#Making a local copy">Making a local copy</a></li>
+        <li><a href="#Apps Script trigger setup">Apps Script trigger setup</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li>
+      <a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#Functions">Functions</a></li>
+      </ul>
+    </li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -129,8 +111,8 @@ Clone the repo
 6. Then select Every Hour. (<i>This will run every hour of the day and update the view,like & comment count of videos</i>)
 7. Optionally, adjust the Failure notification settings to configure how and when you are contacted by email if your triggered function fails.
 8. Click Save.
-9. Repeat from step 3 to 8 for the triggers `updateChannelVideoStatsTrigger`, `updateUserChannelTrigger` &`updateChannelsTrigger `.
-10. For `updateUserChannelTrigger` &`updateChannelsTrigger ` use a weekly trigger.
+9. Repeat from step 3 to 8 for the triggers `updateChannelVideoStatsTrigger` , `updateUserChannelTrigger` & `updateChannelsTrigger `.
+10. For `updateUserChannelTrigger` & `updateChannelsTrigger `  use a weekly trigger.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -180,7 +162,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - harshaabeyvickrama@gmail.com
+Harsha Abeyvickrama - [@VHAbeyvickrama](https://twitter.com/VHAbeyvickrama) - harshaabeyvickrama@gmail.com
 
 Project Link: [https://github.com/HarshaAbeyvickrama/Infine](https://github.com/HarshaAbeyvickrama/Infine)
 
@@ -189,9 +171,9 @@ Project Link: [https://github.com/HarshaAbeyvickrama/Infine](https://github.com/
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Virange Gunarathne](https://www.linkedin.com/in/viranga-gunarathna-3322981a5/)
+* [Awantha Irushan](https://www.linkedin.com/in/avantha-irushan-b68792191/)
+
 
 
 
@@ -210,4 +192,4 @@ Project Link: [https://github.com/HarshaAbeyvickrama/Infine](https://github.com/
 [license-shield]: https://img.shields.io/github/license/HarshaAbeyvickrama/repo.svg?style=for-the-badge
 [license-url]: https://github.com/HarshaAbeyvickrama/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/HarshaAbeyvickrama
+[linkedin-url]: https://linkedin.com/in/harshaabeyvickrama
