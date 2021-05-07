@@ -100,28 +100,24 @@
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
+### Spreadsheet setup
 
-This is an example of how to list things you need to use the software and how to install them.
-<a href="#" class="button primary">copy</a>
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+1. Make of copy of the spreadsheet <a href="" class="button primary">here</a>. It already contains the Apps Script code from this repository.
+2. Change the name of the Project to aything you want.
 
-### Installation
+### YouTube Advanced Service setup
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/HarshaAbeyvickrama/Infine.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
+1. From the spreadsheet, open the script editor by selecting Extensions > Apps Script.
+2. In the left-hand navigation pane, select + next to Services.
+3. Choose the YouTube Data API service, and click Add.
+4. Then Choose the Google Sheets API service, and click Add.
 
+### Making a local copy
 
-
+Clone the repo
+```sh
+    git clone https://github.com/HarshaAbeyvickrama/Infine.git
+```
 <!-- USAGE EXAMPLES -->
 ## Usage
 
