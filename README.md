@@ -21,7 +21,7 @@
     <br />
     <a href="https://github.com/HarshaAbeyvickrama/Infine">View Demo</a>
     ·
-    <a href="https://github.com/HarshaAbeyvickrama/Infine/issues">Report Bug</a>
+    <a href="https://github.com/HarshaAbeyvickrama/Infine/issues">Infinert Bug</a>
     ·
     <a href="https://github.com/HarshaAbeyvickrama/Infine/issues">Request Feature</a>
   </p>
@@ -84,7 +84,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Spreadsheet setup
 
-1. Make of copy of the spreadsheet <a href="" class="button primary">here</a>. It already contains the Apps Script code from this repository.
+1. Make of copy of the spreadsheet <a href="" class="button primary">here</a>. It already contains the Apps Script code from this Infinesitory.
 2. Change the name of the Project to aything you want.
 
 ### YouTube Advanced Service setup
@@ -96,7 +96,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Making a local copy
 
-Clone the repo
+Clone the Infine
 ```sh
   git clone https://github.com/HarshaAbeyvickrama/Infine.git
 ```
@@ -181,15 +181,15 @@ Project Link: [https://github.com/HarshaAbeyvickrama/Infine](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/HarshaAbeyvickrama/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/HarshaAbeyvickrama/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/HarshaAbeyvickrama/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/HarshaAbeyvickrama/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/HarshaAbeyvickrama/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/HarshaAbeyvickrama/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/HarshaAbeyvickrama/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/HarshaAbeyvickrama/repo/issues
-[license-shield]: https://img.shields.io/github/license/HarshaAbeyvickrama/repo.svg?style=for-the-badge
-[license-url]: https://github.com/HarshaAbeyvickrama/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/HarshaAbeyvickrama/Infine.svg?style=for-the-badge
+[contributors-url]: https://github.com/HarshaAbeyvickrama/Infine/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/HarshaAbeyvickrama/Infine.svg?style=for-the-badge
+[forks-url]: https://github.com/HarshaAbeyvickrama/Infine/network/members
+[stars-shield]: https://img.shields.io/github/stars/HarshaAbeyvickrama/Infine.svg?style=for-the-badge
+[stars-url]: https://github.com/HarshaAbeyvickrama/Infine/stargazers
+[issues-shield]: https://img.shields.io/github/issues/HarshaAbeyvickrama/Infine.svg?style=for-the-badge
+[issues-url]: https://github.com/HarshaAbeyvickrama/Infine/issues
+[license-shield]: https://img.shields.io/github/license/HarshaAbeyvickrama/Infine.svg?style=for-the-badge
+[license-url]: https://github.com/HarshaAbeyvickrama/Infine/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/harshaabeyvickrama
