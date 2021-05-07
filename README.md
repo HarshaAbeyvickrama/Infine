@@ -118,18 +118,31 @@ Clone the repo
 ```sh
   git clone https://github.com/HarshaAbeyvickrama/Infine.git
 ```
+
+### Apps Script trigger setup
+
+1. From the script editor, navigate to the left-hand vertical toolbar, and choose Triggers.
+2. In the bottom right-hand corner, click the +Add Trigger button.
+3. Under Run, select the `updateVideoStatsTrigger` function.
+4. Under Select event source, choose Time-driven.
+5. Under type, select Hour timer.
+6. Then select Every Hour. (<i>This will run every hour of the day and update the view,like & comment count of videos</i>)
+7. Optionally, adjust the Failure notification settings to configure how and when you are contacted by email if your triggered function fails.
+8. Click Save.
+9. Repeat from step 3 to 8 for the triggers `updateChannelVideoStatsTrigger`, `updateUserChannelTrigger` &`updateChannelsTrigger `.
+10. For `updateUserChannelTrigger` &`updateChannelsTrigger ` use a weekly trigger.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 ### Functions
 
-1. <strong>addUserVideos() : </strong> <i>Add your uploads to the sheet to track.</i>
-2. <strong>getUserVideos() : </strong> Returns a JSON response of all user uploaded videos.
-3. <strong>addPublicVideo(url,type) : </strong> Add a video with the link to the sheet to track.
-4. <strong>getPublicVideos() : </strong> Returns a JSON response of all videos that are added to the sheet with addPublicVideo() function
-5. <strong>getVideoStats(videoID) : </strong> Returns a JSON response of a particular video that is currently available in the database
-6. <strong>addNewChannel(ChannelLink) : </strong> Add a YouTube channel to the sheet to monitor. This function will add all videos in that channel to the database and it will monitor their views, comments & like count seperately.
-6. <strong>getChannel(channelID) : </strong> Returns a JSON response with the details a particular channel
+1. `addUserVideos()` :    <i>Add your uploads to the sheet to track.</i>
+2. `getUserVideos()` :  <i>Returns a JSON response of all user uploaded videos.</i>
+3. `addPublicVideo(url,type)` :   <i>Add a video with the link to the sheet to track.</i>
+4. `getPublicVideos()` :  <i>Returns a JSON response of all videos that are added to the sheet with addPublicVideo() function</i>
+5. `getVideoStats(videoID)` :   <i>Returns a JSON response of a particular video that is currently available in the database</i>
+6. `addNewChannel(ChannelLink)` :   <i>Add a YouTube channel to the sheet to monitor. This function will add all videos in that channel to the database and it will monitor their views, comments & like count seperately.</i>
+6. `getChannel(channelID)` :   <i>Returns a JSON response with the details a particular channel</i>
 
 <strong>Here,  a separate sheet will be created with the name of the video ID for every video added to the sheet. This is applicable for all user videos and addition of channels<strong>
 
